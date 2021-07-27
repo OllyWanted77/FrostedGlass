@@ -1,6 +1,8 @@
 ## Frosted Glass
 Display your picture of choice with adjustable blur and brightness. Dark theme is required.
 
+### NOT WORKING CURRENTLY
+
 - - -
 BetterDiscord Download: [https://betterdiscord.app/theme/Frosted%20Glass](https://betterdiscord.app/Download?id=40)  
 Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`
